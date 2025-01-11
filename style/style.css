@@ -235,3 +235,72 @@ nav li a{
   
 
 }
+
+/* resume section style */
+
+.resume{
+    justify-content: space-around;
+    background-color: rgba(247, 235, 207, 1);
+   padding: 32px;
+   margin-top: 24px;
+   border-radius: 24px;
+  
+
+}
+.resume-container{
+
+  
+}
+    
+.section-titi{
+   font-weight: bold;
+   font-size: 40px;
+   color: rgba(14, 14, 14, 1);
+
+}
+
+.resumy-columm{
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.7);
+}
+
+.resumy-columm-title{
+    font-weight: bold;
+    font-size: 32px;
+    color: rgba(14, 14, 14, 0.8);
+}
+
+.exprience-title{
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.7);
+}
+
+.exprience-description{
+    font-weight: 400;
+    font-size: 16px;
+    color:rgba(14, 14, 14, 0.7) ;
+
+}
+
+.btn-k{
+    background-color: rgba(0, 106, 80, 1);
+    font-weight: 600px;
+    font-size: 18px;
+    color: white;
+    padding: 13px 26px;
+    border-radius: 8px;
+    border: none;
+
+}
+
+
+.btn-k:hover{
+    background-color: blue;
+}
+
+.picture{
+    height: 408px;
+    width: 306px;
+}
