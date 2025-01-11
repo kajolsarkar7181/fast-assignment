@@ -207,3 +207,31 @@ nav li a{
     padding: 11px 20px;
     border: none;
 }
+
+
+/* text-style */
+.text{ 
+    background-color: rgba(247, 235, 207, 1);
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    max-width: 1280px;
+    border-radius: 16px;
+    
+   
+   
+
+}
+.text-content{
+    font-weight: 400px;
+    font-size: 16px;
+    background-position: center;
+   
+    
+    
+  
+
+}
