@@ -304,3 +304,80 @@ nav li a{
     height: 408px;
     width: 306px;
 }
+
+.parents{
+   
+    display: flex;
+    gap: 24px;
+    justify-content: space-around;
+    
+
+}
+
+
+.child{
+   justify-content: space-around;
+    padding: 40px;
+   border: 24px solid;
+   font-weight: 400;
+   font-size: 18px;
+   margin: 18px 0;
+   background-color: rgba(198, 228, 214, 1);
+   border: none;
+
+
+
+    
+}
+
+
+.Explore{
+    text-align: center;
+   font-weight: bold;
+   font-size: 40px;
+   color:rgba(14, 14, 14, 1) ;
+}
+
+.excelent{
+   font-weight: 400; 
+   font-size: 16px;
+   color:rgba(14, 14, 14, 0.7) ;
+}
+
+.bdt{text-align: center;
+    padding: 48px;
+
+}
+
+.baton{ 
+   text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+   background-color: rgba(0, 106, 80, 1);
+   padding: 24px;
+   border-radius: 8px;
+
+}
+
+
+/* motify */
+
+.motify{
+ text-align: center;
+}
+
+.good{
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(14, 14, 14, 1);
+}
+
+.sun{
+    font-weight: 400;
+    font-size: 24px;
+    color: rgba(14, 14, 14, 0.7);
+}
+
+.maa{
+    text-align: center;
+}
