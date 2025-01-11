@@ -110,3 +110,100 @@ nav li a{
    max-width: 474px;
 
 }
+
+
+
+
+/* section style */
+
+.skills{
+    margin: 0px 160px 0px 160px;
+    max-width: 1280px;
+    padding: 24px;
+    
+}
+.section-title{
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(14, 14, 14, 1);
+}
+
+.section-description{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 400px;
+    font-size: 16px;
+
+}
+
+.skill-container{
+    display: flex;
+    gap: 24px;
+   max-width: 1280px;
+    
+  
+}
+
+
+
+.skill-title{
+    color: rgba(14, 14, 14, 0.8);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+.skill-description{
+    color: rgba(14, 14, 14, 0.7);
+    font-weight: 400px;
+    font-size: 16px;
+}
+
+.skill-1{
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 16px;
+    padding: 32px;
+}
+
+.skill-talant-1:hover{
+    background-color: red;
+}
+.skill-talant-2:hover{
+    background-color: blue;
+}
+
+.skill-talant-3:hover{
+    background-color: yellow;
+}
+
+.skill-2{
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 16px;
+    padding: 24px;
+}
+
+.skill-3{
+    background-color: rgba(247, 235, 207, 1);
+    border-radius: 16px;
+    padding: 24px;
+}
+
+.skill-talant-1{
+    background-color: rgba(84, 144, 245, 1);
+    border-radius: 8px;
+    padding: 11px 20px;
+    border: none;
+}
+
+.skill-talant-2{
+    background-color: rgba(9, 161, 92, 1);
+    border-radius: 8px;
+    padding: 11px 20px;
+    border: none;
+}
+
+.skill-talant-3{
+    background-color: rgba(255, 194, 57, 1);
+    border-radius: 8px;
+    padding: 11px 20px;
+    border: none;
+}
